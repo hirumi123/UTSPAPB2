@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AntiKejahatan</string>
+    <string name="open_nav">Buka Drawer</string>
+    <string name="close_nav">Tutup Drawer</string>
+    <string name="home">Beranda</string>
+    <string name="settings">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="security">Keamanan</string>
+    <string name="aboutus">Tentang Kami</string>
+    <string name="aboutapp">Tentang Aplikasi Kami</string>
+    <string name="feature">Lihat Fitur</string>
+    <string name="back">Kembali</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Test</string>
+
+    <string name="Text1">AntiCrime adalah sebuah aplikasi android yang dirancang untuk membantu pengguna
+        menghindari kejahatan jalanan seperti pencurian dan lain-lain.
+        Aplikasi ini menyediakan beberapa fitur untuk membantu pengguna mengamankan
+        diri mereka dan melaporkan kejadian kejahatan yang terjadi di sekitar mereka.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Text2">
+        Berikut adalah beberapa fitur yang tersedia di dalam AntiCrime:
+
+        Peta Kejahatan: Fitur ini memungkinkan pengguna untuk melihat daerah mana yang sering terjadi kejahatan. Peta ini dapat membantu pengguna untuk menghindari daerah-daerah tersebut dan memilih rute yang lebih aman.
+        Laporan Kejahatan: Pengguna dapat melaporkan kejadian kejahatan yang terjadi di sekitar mereka. Laporan ini akan masuk ke database dan akan membantu kepolisian untuk menangkap pelaku kejahatan.
+        Sistem Peringatan: AppCrime memiliki sistem peringatan yang akan memberitahu pengguna tentang kejadian kejahatan di daerah sekitar mereka. Fitur ini akan membantu pengguna untuk lebih waspada saat berada di daerah tersebut.
+
+</string>
+
+
+</resources>
